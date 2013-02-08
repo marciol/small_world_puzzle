@@ -1,0 +1,470 @@
+Processing by GridsController#create as HTML
+Completed 500 Internal Server Error in 7637ms
+Processing by GridsController#create as HTML
+Completed 500 Internal Server Error in 8035ms
+Processing by GridsController#new as HTML
+Completed 500 Internal Server Error in 126ms
+Processing by GridsController#new as HTML
+Completed 500 Internal Server Error in 1ms
+Processing by GridsController#create as HTML
+Completed 500 Internal Server Error in 7910ms
+Processing by GridsController#create as HTML
+Completed 500 Internal Server Error in 7456ms
+Processing by GridsController#new as HTML
+  Rendered grids/new.haml within layouts/application (1.7ms)
+Completed 200 OK in 137ms (Views: 137.1ms)
+Processing by GridsController#new as HTML
+Completed 200 OK in 2ms (Views: 1.5ms)
+Processing by GridsController#create as HTML
+Completed 500 Internal Server Error in 7610ms
+Processing by GridsController#create as HTML
+Completed 500 Internal Server Error in 7693ms
+Processing by GridsController#create as HTML
+Processing by GridsController#new as HTML
+  Rendered grids/new.haml within layouts/application (0.8ms)
+Completed 200 OK in 32ms (Views: 32.1ms)
+Processing by GridsController#new as HTML
+Completed 200 OK in 2ms (Views: 1.6ms)
+Processing by GridsController#create as HTML
+Processing by GridsController#create as HTML
+Processing by GridsController#new as HTML
+  Rendered grids/new.haml within layouts/application (0.6ms)
+Completed 200 OK in 30ms (Views: 29.5ms)
+Processing by GridsController#new as HTML
+Completed 200 OK in 1ms (Views: 1.0ms)
+Processing by GridsController#create as HTML
+Completed 200 OK in 2102ms (Views: 0.7ms)
+Processing by GridsController#create as HTML
+Completed 200 OK in 1448ms (Views: 0.6ms)
+Processing by GridsController#create as HTML
+Completed 200 OK in 18269ms (Views: 0.7ms)
+Processing by GridsController#create as HTML
+Completed 500 Internal Server Error in 59109ms
+Processing by GridsController#new as HTML
+Completed 200 OK in 12ms (Views: 11.4ms)
+Processing by GridsController#new as HTML
+Completed 200 OK in 3ms (Views: 2.6ms)
+Processing by GridsController#create as HTML
+Completed 200 OK in 0ms (Views: 0.1ms)
+Processing by GridsController#create as HTML
+Completed 200 OK in 0ms (Views: 0.1ms)
+Processing by GridsController#new as HTML
+Completed 200 OK in 8ms (Views: 7.9ms)
+Processing by GridsController#new as HTML
+Completed 200 OK in 1ms (Views: 1.0ms)
+Processing by GridsController#update as HTML
+  Parameters: {"to_visit"=>[["1", "1"], ["2", "2"]], "visited"=>[], "visitor"=>["4", "5"]}
+Completed 500 Internal Server Error in 0ms
+Processing by GridsController#update as HTML
+  Parameters: {"to_visit"=>[["1", "1"], ["2", "2"]], "visited"=>[], "visitor"=>["4", "5"]}
+Completed 500 Internal Server Error in 0ms
+Processing by GridsController#create as HTML
+Completed 200 OK in 0ms (Views: 0.1ms)
+Processing by GridsController#create as HTML
+Completed 200 OK in 0ms (Views: 0.1ms)
+Processing by GridsController#new as HTML
+Completed 200 OK in 10ms (Views: 9.6ms)
+Processing by GridsController#new as HTML
+Completed 200 OK in 1ms (Views: 1.1ms)
+Processing by GridsController#new as HTML
+  Rendered grids/new.haml within layouts/application (0.6ms)
+Completed 200 OK in 30ms (Views: 29.3ms)
+Processing by GridsController#new as HTML
+Completed 200 OK in 1ms (Views: 1.1ms)
+Processing by GridsController#create as HTML
+Completed 200 OK in 0ms (Views: 0.1ms)
+Processing by GridsController#create as HTML
+Completed 200 OK in 0ms (Views: 0.1ms)
+Processing by GridsController#update as HTML
+  Parameters: {"to_visit"=>[["1", "1"], ["2", "2"]], "visited"=>[], "visitor"=>["4", "5"]}
+Completed 500 Internal Server Error in 0ms
+Processing by GridsController#update as HTML
+  Parameters: {"to_visit"=>[["1", "1"], ["2", "2"]], "visited"=>[], "visitor"=>["4", "5"]}
+Completed 500 Internal Server Error in 0ms
+Processing by GridsController#new as HTML
+  Rendered grids/new.haml within layouts/application (0.6ms)
+Completed 200 OK in 30ms (Views: 29.3ms)
+Processing by GridsController#new as HTML
+Completed 200 OK in 1ms (Views: 1.1ms)
+Processing by GridsController#update as HTML
+  Parameters: {"to_visit"=>[["1", "1"], ["2", "2"]], "visited"=>[], "visitor"=>["4", "5"]}
+Completed 500 Internal Server Error in 0ms
+Processing by GridsController#update as HTML
+  Parameters: {"to_visit"=>[["1", "1"], ["2", "2"]], "visited"=>[], "visitor"=>["4", "5"]}
+Completed 500 Internal Server Error in 0ms
+Processing by GridsController#create as HTML
+Completed 200 OK in 0ms (Views: 0.1ms)
+Processing by GridsController#create as HTML
+Completed 200 OK in 0ms (Views: 0.1ms)
+Processing by GridsController#update as HTML
+  Parameters: {"to_visit"=>[["1", "1"], ["2", "2"]], "visited"=>[], "visitor"=>["4", "5"]}
+Completed 500 Internal Server Error in 0ms
+Processing by GridsController#update as HTML
+  Parameters: {"to_visit"=>[["1", "1"], ["2", "2"]], "visited"=>[], "visitor"=>["4", "5"]}
+Completed 500 Internal Server Error in 0ms
+Processing by GridsController#create as HTML
+Completed 200 OK in 0ms (Views: 0.1ms)
+Processing by GridsController#create as HTML
+Completed 200 OK in 0ms (Views: 0.1ms)
+Processing by GridsController#new as HTML
+Completed 200 OK in 8ms (Views: 8.0ms)
+Processing by GridsController#new as HTML
+Completed 200 OK in 1ms (Views: 1.0ms)
+Processing by GridsController#create as HTML
+Completed 200 OK in 0ms (Views: 0.1ms)
+Processing by GridsController#create as HTML
+Completed 200 OK in 0ms (Views: 0.1ms)
+Processing by GridsController#new as HTML
+Completed 200 OK in 8ms (Views: 7.6ms)
+Processing by GridsController#new as HTML
+Completed 200 OK in 1ms (Views: 1.1ms)
+Processing by GridsController#update as HTML
+  Parameters: {"to_visit"=>[["1", "1"], ["2", "2"]], "visited"=>[], "visitor"=>["4", "5"]}
+Completed 500 Internal Server Error in 0ms
+Processing by GridsController#update as HTML
+  Parameters: {"to_visit"=>[["1", "1"], ["2", "2"]], "visited"=>[], "visitor"=>["4", "5"]}
+Completed 500 Internal Server Error in 0ms
+Processing by GridsController#update as HTML
+  Parameters: {"to_visit"=>[["1", "1"], ["2", "2"]], "visited"=>[], "visitor"=>["4", "5"]}
+Completed 500 Internal Server Error in 0ms
+Processing by GridsController#new as HTML
+  Rendered grids/new.haml within layouts/application (0.6ms)
+Completed 200 OK in 30ms (Views: 29.3ms)
+Processing by GridsController#new as HTML
+Completed 200 OK in 1ms (Views: 1.0ms)
+Processing by GridsController#create as HTML
+Completed 200 OK in 0ms (Views: 0.1ms)
+Processing by GridsController#create as HTML
+Completed 200 OK in 0ms (Views: 0.1ms)
+Processing by GridsController#update as HTML
+  Parameters: {"to_visit"=>[["1", "1"], ["2", "2"]], "visited"=>[], "visitor"=>["4", "5"]}
+Processing by GridsController#update as HTML
+  Parameters: {"grid"=>{"to_visit"=>[["1", "1"], ["2", "2"]], "visited"=>[], "visitor"=>["4", "5"]}}
+Completed 500 Internal Server Error in 1242ms
+Processing by GridsController#update as HTML
+  Parameters: {"grid"=>{"to_visit"=>[["1", "1"], ["2", "2"]], "visited"=>[], "visitor"=>["4", "5"]}}
+Completed 500 Internal Server Error in 538ms
+Processing by GridsController#update as HTML
+  Parameters: {"grid"=>{"to_visit"=>[["1", "1"], ["2", "2"]], "visited"=>[], "visitor"=>["5", "6"]}}
+Completed 500 Internal Server Error in 454ms
+Processing by GridsController#create as HTML
+Completed 200 OK in 1ms (Views: 0.2ms)
+Processing by GridsController#create as HTML
+Completed 200 OK in 0ms (Views: 0.2ms)
+Processing by GridsController#new as HTML
+Completed 200 OK in 33ms (Views: 32.2ms)
+Processing by GridsController#new as HTML
+Completed 200 OK in 2ms (Views: 1.7ms)
+Processing by GridsController#new as HTML
+Completed 500 Internal Server Error in 1743ms
+Processing by GridsController#new as HTML
+Completed 500 Internal Server Error in 706ms
+Processing by GridsController#update as HTML
+  Parameters: {"grid"=>{"to_visit"=>[["1", "1"], ["2", "2"]], "visited"=>[], "visitor"=>["4", "5"]}}
+Completed 500 Internal Server Error in 1ms
+Processing by GridsController#update as HTML
+  Parameters: {"grid"=>{"to_visit"=>[["1", "1"], ["2", "2"]], "visited"=>[], "visitor"=>["4", "5"]}}
+Completed 500 Internal Server Error in 0ms
+Processing by GridsController#update as HTML
+  Parameters: {"grid"=>{"to_visit"=>[["1", "1"], ["2", "2"]], "visited"=>[], "visitor"=>["5", "6"]}}
+Completed 500 Internal Server Error in 0ms
+Processing by GridsController#create as HTML
+Completed 200 OK in 1ms (Views: 0.2ms)
+Processing by GridsController#create as HTML
+Completed 200 OK in 0ms (Views: 0.2ms)
+Processing by GridsController#new as HTML
+Completed 200 OK in 1787ms (Views: 1.2ms)
+Processing by GridsController#new as HTML
+Completed 200 OK in 682ms (Views: 2.5ms)
+Processing by GridsController#update as HTML
+  Parameters: {"grid"=>{"to_visit"=>[["1", "1"], ["2", "2"]], "visited"=>[], "visitor"=>["4", "5"]}}
+Completed 500 Internal Server Error in 1ms
+Processing by GridsController#update as HTML
+  Parameters: {"grid"=>{"to_visit"=>[["1", "1"], ["2", "2"]], "visited"=>[], "visitor"=>["4", "5"]}}
+Completed 500 Internal Server Error in 1ms
+Processing by GridsController#update as HTML
+  Parameters: {"grid"=>{"to_visit"=>[["1", "1"], ["2", "2"]], "visited"=>[], "visitor"=>["5", "6"]}}
+Completed 500 Internal Server Error in 1ms
+Processing by GridsController#create as HTML
+Completed 200 OK in 1ms (Views: 0.3ms)
+Processing by GridsController#create as HTML
+Completed 200 OK in 1ms (Views: 0.3ms)
+Processing by GridsController#update as HTML
+  Parameters: {"grid"=>{"to_visit"=>[["1", "1"], ["2", "2"]], "visited"=>[], "visitor"=>["4", "5"]}}
+Completed 500 Internal Server Error in 0ms
+Processing by GridsController#update as HTML
+  Parameters: {"grid"=>{"to_visit"=>[["1", "1"], ["2", "2"]], "visited"=>[], "visitor"=>["4", "5"]}}
+Completed 500 Internal Server Error in 0ms
+Processing by GridsController#update as HTML
+  Parameters: {"grid"=>{"to_visit"=>[["1", "1"], ["2", "2"]], "visited"=>[], "visitor"=>["5", "6"]}}
+Completed 500 Internal Server Error in 0ms
+Processing by GridsController#create as HTML
+Completed 200 OK in 0ms (Views: 0.1ms)
+Processing by GridsController#create as HTML
+Completed 200 OK in 0ms (Views: 0.1ms)
+Processing by GridsController#new as HTML
+Completed 200 OK in 8ms (Views: 7.7ms)
+Processing by GridsController#new as HTML
+Completed 200 OK in 1ms (Views: 1.1ms)
+Processing by GridsController#new as HTML
+  Rendered grids/new.haml within layouts/application (0.6ms)
+Completed 200 OK in 29ms (Views: 29.1ms)
+Processing by GridsController#new as HTML
+Completed 200 OK in 1ms (Views: 1.1ms)
+Processing by GridsController#create as HTML
+Completed 200 OK in 0ms (Views: 0.1ms)
+Processing by GridsController#create as HTML
+Completed 200 OK in 0ms (Views: 0.1ms)
+Processing by GridsController#update as HTML
+  Parameters: {"grid"=>{"to_visit"=>[["1", "1"], ["2", "2"]], "visited"=>[], "visitor"=>["4", "5"]}}
+Completed 500 Internal Server Error in 37547ms
+Processing by GridsController#update as HTML
+  Parameters: {"grid"=>{"to_visit"=>[["1", "1"], ["2", "2"]], "visited"=>[], "visitor"=>["4", "5"]}}
+Completed 500 Internal Server Error in 1350ms
+Processing by GridsController#update as HTML
+  Parameters: {"grid"=>{"to_visit"=>[["1", "1"], ["2", "2"]], "visited"=>[], "visitor"=>["5", "6"]}}
+Completed 500 Internal Server Error in 518ms
+Processing by GridsController#new as HTML
+  Rendered grids/new.haml within layouts/application (0.5ms)
+Completed 200 OK in 29ms (Views: 29.1ms)
+Processing by GridsController#new as HTML
+Completed 200 OK in 1ms (Views: 1.1ms)
+Processing by GridsController#update as HTML
+  Parameters: {"grid"=>{"to_visit"=>[["1", "1"], ["2", "2"]], "visited"=>[], "visitor"=>["4", "5"]}}
+Completed 200 OK in 3468ms (Views: 0.6ms)
+Processing by GridsController#update as HTML
+  Parameters: {"grid"=>{"to_visit"=>[["1", "1"], ["2", "2"]], "visited"=>[], "visitor"=>["4", "5"]}}
+Completed 200 OK in 657ms (Views: 0.6ms)
+Processing by GridsController#update as HTML
+  Parameters: {"grid"=>{"to_visit"=>[["1", "1"], ["2", "2"]], "visited"=>[], "visitor"=>["5", "6"]}}
+Completed 200 OK in 465ms (Views: 0.5ms)
+Processing by GridsController#create as HTML
+Completed 200 OK in 1ms (Views: 0.2ms)
+Processing by GridsController#create as HTML
+Completed 200 OK in 0ms (Views: 0.2ms)
+Processing by GridsController#new as HTML
+  Rendered grids/new.haml within layouts/application (0.6ms)
+Completed 200 OK in 29ms (Views: 29.0ms)
+Processing by GridsController#new as HTML
+Completed 200 OK in 1ms (Views: 1.1ms)
+Processing by GridsController#update as HTML
+  Parameters: {"grid"=>{"to_visit"=>[["1", "1"], ["2", "2"]], "visited"=>[], "visitor"=>["4", "5"]}}
+Completed 200 OK in 1877ms (Views: 0.4ms)
+Processing by GridsController#update as HTML
+  Parameters: {"grid"=>{"to_visit"=>[["1", "1"], ["2", "2"]], "visited"=>[], "visitor"=>["4", "5"]}}
+Completed 200 OK in 483ms (Views: 0.6ms)
+Processing by GridsController#update as HTML
+  Parameters: {"grid"=>{"to_visit"=>[["1", "1"], ["2", "2"]], "visited"=>[], "visitor"=>["5", "6"]}}
+Completed 200 OK in 415ms (Views: 0.5ms)
+Processing by GridsController#create as HTML
+Completed 200 OK in 1ms (Views: 0.2ms)
+Processing by GridsController#create as HTML
+Completed 200 OK in 0ms (Views: 0.2ms)
+Processing by GridsController#new as HTML
+  Rendered grids/new.haml within layouts/application (0.6ms)
+Completed 200 OK in 32ms (Views: 31.2ms)
+Processing by GridsController#new as HTML
+Completed 200 OK in 1ms (Views: 1.1ms)
+Processing by GridsController#update as HTML
+  Parameters: {"grid"=>{"to_visit"=>[["1", "1"], ["2", "2"]], "visited"=>[], "visitor"=>["4", "5"]}}
+Completed 200 OK in 0ms (Views: 0.1ms)
+Processing by GridsController#update as HTML
+  Parameters: {"grid"=>{"to_visit"=>[["1", "1"], ["2", "2"]], "visited"=>[], "visitor"=>["4", "5"]}}
+Completed 200 OK in 0ms (Views: 0.1ms)
+Processing by GridsController#update as HTML
+  Parameters: {"grid"=>{"to_visit"=>[["1", "1"], ["2", "2"]], "visited"=>[], "visitor"=>["5", "6"]}}
+Completed 200 OK in 0ms (Views: 0.1ms)
+Processing by GridsController#create as HTML
+Completed 200 OK in 0ms (Views: 0.1ms)
+Processing by GridsController#create as HTML
+Completed 200 OK in 0ms (Views: 0.1ms)
+Processing by GridsController#update as HTML
+  Parameters: {"grid"=>{"to_visit"=>[["1", "1"], ["2", "2"]], "visited"=>[], "visitor"=>["4", "5"]}}
+Completed 200 OK in 1ms (Views: 0.2ms)
+Processing by GridsController#update as HTML
+  Parameters: {"grid"=>{"to_visit"=>[["1", "1"], ["2", "2"]], "visited"=>[], "visitor"=>["4", "5"]}}
+Completed 200 OK in 0ms (Views: 0.2ms)
+Processing by GridsController#update as HTML
+  Parameters: {"grid"=>{"to_visit"=>[["1", "1"], ["2", "2"]], "visited"=>[], "visitor"=>["5", "6"]}}
+Completed 200 OK in 0ms (Views: 0.1ms)
+Processing by GridsController#create as HTML
+Completed 200 OK in 1ms (Views: 0.2ms)
+Processing by GridsController#create as HTML
+Completed 200 OK in 0ms (Views: 0.2ms)
+Processing by GridsController#new as HTML
+Completed 200 OK in 34ms (Views: 33.2ms)
+Processing by GridsController#new as HTML
+Completed 200 OK in 2ms (Views: 1.6ms)
+Processing by GridsController#new as HTML
+  Rendered grids/new.haml within layouts/application (0.8ms)
+Completed 200 OK in 133ms (Views: 132.5ms)
+Processing by GridsController#new as HTML
+Completed 200 OK in 2ms (Views: 1.7ms)
+Processing by GridsController#create as HTML
+Completed 200 OK in 1ms (Views: 0.2ms)
+Processing by GridsController#create as HTML
+Completed 200 OK in 0ms (Views: 0.2ms)
+Processing by GridsController#update as HTML
+  Parameters: {"grid"=>{"to_visit"=>[["1", "1"], ["2", "2"]], "visited"=>[], "visitor"=>["4", "5"]}}
+Completed 200 OK in 1ms (Views: 0.2ms)
+Processing by GridsController#update as HTML
+  Parameters: {"grid"=>{"to_visit"=>[["1", "1"], ["2", "2"]], "visited"=>[], "visitor"=>["4", "5"]}}
+Completed 200 OK in 0ms (Views: 0.2ms)
+Processing by GridsController#new as HTML
+  Rendered grids/new.haml within layouts/application (0.8ms)
+Completed 200 OK in 32ms (Views: 31.7ms)
+Processing by GridsController#new as HTML
+Completed 200 OK in 2ms (Views: 1.6ms)
+Processing by GridsController#update as HTML
+  Parameters: {"grid"=>{"to_visit"=>[["1", "1"], ["2", "2"]], "visited"=>[], "visitor"=>["4", "5"]}}
+Completed 200 OK in 1ms (Views: 0.2ms)
+Processing by GridsController#update as HTML
+  Parameters: {"grid"=>{"to_visit"=>[["1", "1"], ["2", "2"]], "visited"=>[], "visitor"=>["4", "5"]}}
+Completed 200 OK in 0ms (Views: 0.2ms)
+Processing by GridsController#update as HTML
+  Parameters: {"grid"=>{"to_visit"=>[["1", "1"], ["2", "2"]], "visited"=>[], "visitor"=>["5", "6"]}}
+Completed 200 OK in 1ms (Views: 0.4ms)
+Processing by GridsController#create as HTML
+Completed 200 OK in 1ms (Views: 0.2ms)
+Processing by GridsController#create as HTML
+Completed 200 OK in 1ms (Views: 0.3ms)
+Processing by GridsController#new as HTML
+  Rendered grids/new.haml within layouts/application (0.8ms)
+Completed 200 OK in 33ms (Views: 32.2ms)
+Processing by GridsController#new as HTML
+Completed 200 OK in 2ms (Views: 1.7ms)
+Processing by GridsController#create as HTML
+Completed 200 OK in 1ms (Views: 0.2ms)
+Processing by GridsController#create as HTML
+Completed 200 OK in 0ms (Views: 0.2ms)
+Processing by GridsController#update as HTML
+  Parameters: {"grid"=>{"to_visit"=>[["1", "1"], ["2", "2"]], "visited"=>[], "visitor"=>["4", "5"]}}
+Completed 200 OK in 1ms (Views: 0.2ms)
+Processing by GridsController#update as HTML
+  Parameters: {"grid"=>{"to_visit"=>[["1", "1"], ["2", "2"]], "visited"=>[], "visitor"=>["4", "5"]}}
+Completed 200 OK in 0ms (Views: 0.2ms)
+Processing by GridsController#update as HTML
+  Parameters: {"grid"=>{"to_visit"=>[["1", "1"], ["2", "2"]], "visited"=>[], "visitor"=>["5", "6"]}}
+Completed 200 OK in 1ms (Views: 0.2ms)
+Processing by GridsController#create as HTML
+Completed 200 OK in 1ms (Views: 0.2ms)
+Processing by GridsController#create as HTML
+Completed 200 OK in 0ms (Views: 0.2ms)
+Processing by GridsController#update as HTML
+  Parameters: {"grid"=>{"to_visit"=>[["1", "1"], ["2", "2"]], "visited"=>[], "visitor"=>["4", "5"]}}
+Completed 200 OK in 1ms (Views: 0.2ms)
+Processing by GridsController#update as HTML
+  Parameters: {"grid"=>{"to_visit"=>[["1", "1"], ["2", "2"]], "visited"=>[], "visitor"=>["4", "5"]}}
+Completed 200 OK in 0ms (Views: 0.2ms)
+Processing by GridsController#update as HTML
+  Parameters: {"grid"=>{"to_visit"=>[["1", "1"], ["2", "2"]], "visited"=>[], "visitor"=>["5", "6"]}}
+Completed 200 OK in 2ms (Views: 1.5ms)
+Processing by GridsController#new as HTML
+Completed 200 OK in 36ms (Views: 35.6ms)
+Processing by GridsController#new as HTML
+Completed 200 OK in 2ms (Views: 1.7ms)
+Processing by GridsController#create as HTML
+Completed 200 OK in 1ms (Views: 0.2ms)
+Processing by GridsController#create as HTML
+Completed 200 OK in 1ms (Views: 0.5ms)
+Processing by GridsController#update as HTML
+  Parameters: {"grid"=>{"to_visit"=>[["1", "1"], ["2", "2"]], "visited"=>[], "visitor"=>["4", "5"]}}
+Completed 200 OK in 1ms (Views: 0.2ms)
+Processing by GridsController#update as HTML
+  Parameters: {"grid"=>{"to_visit"=>[["1", "1"], ["2", "2"]], "visited"=>[], "visitor"=>["4", "5"]}}
+Completed 200 OK in 0ms (Views: 0.2ms)
+Processing by GridsController#update as HTML
+  Parameters: {"grid"=>{"to_visit"=>[["1", "1"], ["2", "2"]], "visited"=>[], "visitor"=>["5", "6"]}}
+Completed 200 OK in 1ms (Views: 0.5ms)
+Processing by GridsController#new as HTML
+Completed 200 OK in 34ms (Views: 33.6ms)
+Processing by GridsController#new as HTML
+Completed 200 OK in 2ms (Views: 1.6ms)
+Processing by GridsController#update as HTML
+  Parameters: {"grid"=>{"to_visit"=>[["1", "1"], ["2", "2"]], "visited"=>[], "visitor"=>["4", "5"]}}
+Completed 200 OK in 1ms (Views: 0.2ms)
+Processing by GridsController#update as HTML
+  Parameters: {"grid"=>{"to_visit"=>[["1", "1"], ["2", "2"]], "visited"=>[], "visitor"=>["4", "5"]}}
+Completed 200 OK in 0ms (Views: 0.2ms)
+Processing by GridsController#update as HTML
+  Parameters: {"grid"=>{"to_visit"=>[["1", "1"], ["2", "2"]], "visited"=>[], "visitor"=>["5", "6"]}}
+Completed 200 OK in 1ms (Views: 0.5ms)
+Processing by GridsController#create as HTML
+Completed 200 OK in 1ms (Views: 0.2ms)
+Processing by GridsController#create as HTML
+Completed 200 OK in 1ms (Views: 0.5ms)
+Processing by GridsController#new as HTML
+Completed 200 OK in 34ms (Views: 33.4ms)
+Processing by GridsController#new as HTML
+Completed 200 OK in 2ms (Views: 1.6ms)
+Processing by GridsController#new as HTML
+  Rendered grids/new.haml within layouts/application (0.8ms)
+Completed 200 OK in 32ms (Views: 32.2ms)
+Processing by GridsController#new as HTML
+Completed 200 OK in 2ms (Views: 1.6ms)
+Processing by GridsController#create as HTML
+Completed 200 OK in 1ms (Views: 0.2ms)
+Processing by GridsController#create as HTML
+Completed 200 OK in 1ms (Views: 0.5ms)
+Processing by GridsController#update as HTML
+  Parameters: {"grid"=>{"to_visit"=>[["1", "1"], ["2", "2"]], "visited"=>[], "visitor"=>["4", "5"]}}
+Completed 200 OK in 1ms (Views: 0.2ms)
+Processing by GridsController#update as HTML
+  Parameters: {"grid"=>{"to_visit"=>[["1", "1"], ["2", "2"]], "visited"=>[], "visitor"=>["4", "5"]}}
+Completed 200 OK in 0ms (Views: 0.1ms)
+Processing by GridsController#update as HTML
+  Parameters: {"grid"=>{"to_visit"=>[["1", "1"], ["2", "2"]], "visited"=>[], "visitor"=>["5", "6"]}}
+Completed 200 OK in 1ms (Views: 0.5ms)
+Processing by GridsController#new as HTML
+  Rendered grids/new.haml within layouts/application (0.6ms)
+Completed 200 OK in 30ms (Views: 29.7ms)
+Processing by GridsController#new as HTML
+Completed 200 OK in 1ms (Views: 1.1ms)
+Processing by GridsController#update as HTML
+  Parameters: {"grid"=>{"to_visit"=>[["1", "1"], ["2", "2"]], "visited"=>[], "visitor"=>["4", "5"]}}
+Completed 200 OK in 0ms (Views: 0.1ms)
+Processing by GridsController#update as HTML
+  Parameters: {"grid"=>{"to_visit"=>[["1", "1"], ["2", "2"]], "visited"=>[], "visitor"=>["4", "5"]}}
+Completed 200 OK in 0ms (Views: 0.1ms)
+Processing by GridsController#update as HTML
+  Parameters: {"grid"=>{"to_visit"=>[["1", "1"], ["2", "2"]], "visited"=>[], "visitor"=>["5", "6"]}}
+Completed 200 OK in 0ms (Views: 0.2ms)
+Processing by GridsController#create as HTML
+Completed 200 OK in 0ms (Views: 0.1ms)
+Processing by GridsController#create as HTML
+Completed 200 OK in 0ms (Views: 0.2ms)
+Processing by GridsController#update as HTML
+  Parameters: {"grid"=>{"to_visit"=>[["1", "1"], ["2", "2"]], "visited"=>[], "visitor"=>["4", "5"]}}
+Completed 200 OK in 0ms (Views: 0.1ms)
+Processing by GridsController#update as HTML
+  Parameters: {"grid"=>{"to_visit"=>[["1", "1"], ["2", "2"]], "visited"=>[], "visitor"=>["4", "5"]}}
+Completed 200 OK in 0ms (Views: 0.1ms)
+Processing by GridsController#update as HTML
+  Parameters: {"grid"=>{"to_visit"=>[["1", "1"], ["2", "2"]], "visited"=>[], "visitor"=>["5", "6"]}}
+Completed 200 OK in 0ms (Views: 0.2ms)
+Processing by GridsController#create as HTML
+Completed 200 OK in 0ms (Views: 0.1ms)
+Processing by GridsController#create as HTML
+Completed 200 OK in 0ms (Views: 0.2ms)
+Processing by GridsController#new as HTML
+Completed 200 OK in 30ms (Views: 30.3ms)
+Processing by GridsController#new as HTML
+Completed 200 OK in 1ms (Views: 1.0ms)
+Processing by GridsController#new as HTML
+  Rendered grids/new.haml within layouts/application (0.6ms)
+Completed 200 OK in 30ms (Views: 29.5ms)
+Processing by GridsController#new as HTML
+Completed 200 OK in 1ms (Views: 1.1ms)
+Processing by GridsController#create as HTML
+Completed 200 OK in 0ms (Views: 0.1ms)
+Processing by GridsController#create as HTML
+Completed 200 OK in 0ms (Views: 0.2ms)
+Processing by GridsController#update as HTML
+  Parameters: {"grid"=>{"to_visit"=>[["1", "1"], ["2", "2"]], "visited"=>[], "visitor"=>["4", "5"]}}
+Completed 200 OK in 0ms (Views: 0.1ms)
+Processing by GridsController#update as HTML
+  Parameters: {"grid"=>{"to_visit"=>[["1", "1"], ["2", "2"]], "visited"=>[], "visitor"=>["4", "5"]}}
+Completed 200 OK in 0ms (Views: 0.1ms)
+Processing by GridsController#update as HTML
+  Parameters: {"grid"=>{"to_visit"=>[["1", "1"], ["2", "2"]], "visited"=>[], "visitor"=>["5", "6"]}}
+Completed 200 OK in 0ms (Views: 0.2ms)
